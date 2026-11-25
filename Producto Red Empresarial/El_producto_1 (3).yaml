@@ -1,0 +1,1586 @@
+annotations:
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#980505'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      VLAN 10 Estudiantes (5000 hosts)
+      VLAN 20 Docentes (64 hosts)
+      VLAN 30 Gestion1 (200 hosts)
+      VLAN 4O Voz (16 hosts)
+      VLAN 99 Blackhull-1 (10 hosts)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 360.0
+    y1: -120.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#980505'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      VLAN 110 Finanzas (100 hosts)
+      VLAN 120 Academicos (80 hosts)
+      VLAN 31 Gestion2 (200 hosts)
+      VLAN 13O Datacenter (44 hosts)
+      VLAN 199 Blackhull-2 (10 hosts)
+      LAN P2P (2 hosts)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -560.0
+    y1: -40.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#2843A5'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      172.18.35.128/26
+      2001:25:18:6::/64
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -640.0
+    y1: -200.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: ''
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -360.0
+    y1: 360.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#2843A5'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      172.18.34.0/25
+      2001:25:18:3::/64
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -360.0
+    y1: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#2843A5'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      172.18.34.128/25
+      2001:25:18:4::/64
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -160.0
+    y1: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#2843A5'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      172.18.0.0/19
+      2001:25:18:0::/64
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 400.0
+    y1: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#2843A5'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      172.18.35.0/25
+      2001:25:18:5::/64
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 200.0
+    y1: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#2843A5'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      172.18.32.0/24
+      2001:25:18:1::/64
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 600.0
+    y1: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: ''
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 240.0
+    y1: -200.0
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#2843A5'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      .1
+      :1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 240.0
+    y1: -200.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#2843A5'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+       172.18.36.0/30
+      2001:25:18:a::/64
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 0.0
+    y1: -200.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#2843A5'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      .2
+      :2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -120.0
+    y1: -200.0
+    z_index: 1
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4040 bytes
+          !
+          ! Last configuration change at 06:45:34 UTC Tue Nov 24 2026
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SWM1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          vtp domain SWM1
+          vtp password Cisco1
+          vtp mode server
+          vtp version 2
+          vlan 31
+          name Gestion2
+          vlan 110
+          name Finanzas
+          vlan 120
+          name Academicos
+          vlan 130
+          name Datacenter
+          vlan 199
+          name Blackhull-2
+          exit
+
+          interface range g0/0-3
+          switchport mode access
+          switchport access vlan 199
+          shutdown
+          exit
+
+          interface g0/0
+          switchport trunk encapsulation dot1q
+          switchport mode trunk
+          switchport trunk native vlan 199
+          switchport trunk allowed vlan 110,120,31,199
+          no shutdown
+          exit
+
+          interface g0/2
+          switchport trunk encapsulation dot1q
+          switchport mode trunk
+          switchport trunk native vlan 199
+          switchport trunk allowed vlan 130,31,199
+          no shutdown
+          exit
+          no logging console
+          !
+          username admin privilege 15 secret 5 $1$CLWx$m3fRbYcvwKyZvwTaE9kts/
+          no aaa new-model
+          no process cpu extended history
+          no process cpu autoprofile hog
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name lab.local
+          ip cef
+          ipv6 unicast-routing
+          ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree extend system-id
+          !
+          no cdp run
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport access vlan 199
+           switchport trunk allowed vlan 31,110,120,199
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 199
+           switchport mode trunk
+           negotiation auto
+           no cdp enable
+          !
+          interface GigabitEthernet0/1
+           no switchport
+           ip address 172.18.38.2 255.255.255.252
+           negotiation auto
+           ipv6 address 2001:25:18:A::2/64
+           no cdp enable
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 199
+           switchport trunk allowed vlan 31,130,199
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 199
+           switchport mode trunk
+           negotiation auto
+           no cdp enable
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 199
+           switchport mode access
+           shutdown
+           negotiation auto
+           no cdp enable
+          !
+          interface Vlan31
+           ip address 172.18.33.1 255.255.255.0
+           ipv6 address 2001:25:18:2::1/64
+          !
+          interface Vlan110
+           ip address 172.18.34.1 255.255.255.128
+           ipv6 address 2001:25:18:3::1/64
+          !
+          interface Vlan120
+           ip address 172.18.34.129 255.255.255.128
+           ipv6 address 2001:25:18:4::1/64
+          !
+          interface Vlan130
+           ip address 172.18.35.129 255.255.255.192
+           ipv6 address 2001:25:18:6::1/64
+          !
+          ip forward-protocol nd
+          !
+          ip http server
+          ip http secure-server
+          !
+          ip route 0.0.0.0 0.0.0.0 172.18.36.1
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          no service-routing capabilities-manager
+          ipv6 route ::/0 2001:25:18:A::1
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner motd ^CSOLO PERSONAL AUTORIZADO^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login local
+           transport input ssh
+          line vty 5 15
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: SWM1
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -160
+    y: -120
+    interfaces:
+      - id: i0
+        label: Loopback0
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: "Building configuration...\n\nCurrent configuration : 4144 bytes\n\
+          !\n! Last configuration change at 06:45:36 UTC Tue Nov 24 2026\n!\nversion\
+          \ 17.15\nservice timestamps debug datetime msec\nservice timestamps log\
+          \ datetime msec\n!\nhostname R1\n!\nboot-start-marker\nboot-end-marker\n\
+          !\n!\nno logging console\nno aaa new-model\n!\n!\n!\n!\n!\n!\n!\n!\n!\n\
+          !\n!\n!\n!\nip cef\nlogin on-success log\nipv6 unicast-routing\nipv6 cef\n\
+          !\n!\n!\n!\n!\n!\n!\n!\n!\n!\ncrypto pki trustpoint TP-self-signed-131184660\n\
+          \ enrollment selfsigned\n subject-name cn=IOS-Self-Signed-Certificate-131184660\n\
+          \ revocation-check none\n rsakeypair TP-self-signed-131184660\n hash sha512\n\
+          !\n!\ncrypto pki certificate chain TP-self-signed-131184660\n certificate\
+          \ self-signed 01\n  3082032E 30820216 A0030201 02020101 300D0609 2A864886\
+          \ F70D0101 0D050030\n  30312E30 2C060355 04030C25 494F532D 53656C66 2D536967\
+          \ 6E65642D 43657274\n  69666963 6174652D 31333131 38343636 30301E17 0D323631\
+          \ 31323430 36343234\n  355A170D 33363131 32333036 34323435 5A303031 2E302C06\
+          \ 03550403 0C25494F\n  532D5365 6C662D53 69676E65 642D4365 72746966 69636174\
+          \ 652D3133 31313834\n  36363030 82012230 0D06092A 864886F7 0D010101 05000382\
+          \ 010F0030 82010A02\n  82010100 C37D5FC0 0596F863 D21F09A5 BD3C337D 79F82D5E\
+          \ 049EEE8D AC612F33\n  5321EB1F 217247C0 CAA0125D E34DFD66 7C01E2D2 7CC4292B\
+          \ 24D4D415 1DB08D7A\n  A75BDF9D C34709FB 2F5A9852 BB74867B A9CF507B D0875863\
+          \ 5F2CB483 AE1046A6\n  C84DBE95 0ED6A196 69744E58 E3D9F0F7 1115B56E 3A2C0DB4\
+          \ 6085DC6E 79807161\n  12C912FD 024DA1DA BA02F870 45FDAF33 7BC14A44 79330070\
+          \ F00B22F4 B8D23A82\n  A4B59F58 7A8F2394 326190C2 A10CC494 5B6A8E13 C2FD50E8\
+          \ D67E18AF 4E80FEBE\n  DCA78C50 94C61B38 EE035DF9 DD08F1EB F1C48735 DEE76952\
+          \ 31C940FC FAD2FE7D\n  34F3CFB3 7DE37604 2501C980 89E21CEF 9FBBC5EA 7438DB51\
+          \ 10E2A989 DF1536A8\n  50B530F7 02030100 01A35330 51301D06 03551D0E 04160414\
+          \ C268CDC1 F6E90A60\n  77B85CB0 D744F323 B984E363 301F0603 551D2304 18301680\
+          \ 14C268CD C1F6E90A\n  6077B85C B0D744F3 23B984E3 63300F06 03551D13 0101FF04\
+          \ 05300301 01FF300D\n  06092A86 4886F70D 01010D05 00038201 01006790 510313F9\
+          \ E26A4612 B1C5DB81\n  80E724D3 101774B5 F808F3C5 499CDCD7 8382CB08 E4C1A5A0\
+          \ 54ACC6AD 210163C3\n  B714A6EB 709D5FC5 5C14F1F4 5273D92D A59C93C8 F8846030\
+          \ E2367214 DA5B676D\n  1F9C6B63 E2CEF93D BBFE9FB8 D7772F51 95D106DE 3B5AA289\
+          \ DD580AE7 948454D5\n  AD1D9B2C 9E79711A 264E2725 CFC5FF6F A08E8F13 7379778C\
+          \ DF1CCEC2 6B1B73D8\n  9C1132B6 ECC43BC3 0FE7C3A1 B2DFDA35 B02E39E7 0B7CF96B\
+          \ C72ECF8F 60CC2EF5\n  046D1A8B 862D8F95 45A414C3 1461CCBD 82B1E7F5 22F4E3BA\
+          \ 06E1A662 6BC6D528\n  51697970 53C4381E D5C5D860 31BFDEF2 AD0FB479 65F8550E\
+          \ 7EFAB114 87EFE893\n  CB34AADB FE134EEE AB4694F2 66726BAA 1FE2\n  \tquit\n\
+          !\n!\nmemory free low-watermark processor 80093\n!\n!\nspanning-tree mode\
+          \ rapid-pvst\n!\n!\nusername admin privilege 15 secret 9 $9$oxueOS0fNiLqXk$3cfzpxRkDKPS0Bx4Vm15N4vWyM5p7jONl3iRahTSi36\n\
+          !\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\ninterface\
+          \ Ethernet0/0\n ip address 172.18.38.1 255.255.255.252\n ipv6 address 2001:25:18:A::1/64\n\
+          !\ninterface Ethernet0/1\n no ip address\n!\ninterface Ethernet0/1.10\n\
+          \ encapsulation dot1Q 10\n ip address 172.18.0.1 255.255.224.0\n ipv6 address\
+          \ 2001:25:18::1/64\n!\ninterface Ethernet0/1.20\n encapsulation dot1Q 20\n\
+          \ ip address 172.18.35.1 255.255.255.128\n ipv6 address 2001:25:18:5::1/64\n\
+          !\ninterface Ethernet0/1.30\n encapsulation dot1Q 30\n ip address 172.18.32.1\
+          \ 255.255.255.0\n ipv6 address 2001:25:18:1::1/64\n!\ninterface Ethernet0/1.40\n\
+          \ encapsulation dot1Q 40\n ip address 172.18.35.193 255.255.255.224\n ipv6\
+          \ address 2001:25:18:7::1/64\n!\ninterface Ethernet0/2\n no ip address\n\
+          \ shutdown\n!\ninterface Ethernet0/3\n no ip address\n shutdown\n!\nip forward-protocol\
+          \ nd\n!\n!\nip http server\nip http secure-server\nip route 172.18.33.0\
+          \ 255.255.255.0 172.18.36.2\nip route 172.18.34.0 255.255.255.0 172.18.36.2\n\
+          ip route 172.18.35.128 255.255.255.192 172.18.36.2\nip ssh bulk-mode 131072\n\
+          no logging btrace\nipv6 route 2001:25:18:2::/64 2001:25:18:A::2\nipv6 route\
+          \ 2001:25:18:3::/64 2001:25:18:A::2\nipv6 route 2001:25:18:4::/64 2001:25:18:A::2\n\
+          ipv6 route 2001:25:18:6::/64 2001:25:18:A::2\n!\n!\n!\ncontrol-plane\n!\n\
+          !\nbanner motd ^CSOLO PERSONAL AUTORIZADO^C\n!\nline con 0\n exec-timeout\
+          \ 0 0\n logging synchronous\nline aux 0\nline vty 0 4\n exec-timeout 0 0\n\
+          \ login local\n transport input ssh\n!\n!\n!\n!\nend"
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: R1
+    node_definition: iol-xe
+    parameters: {}
+    ram: null
+    tags: []
+    x: 280
+    y: -120
+    interfaces:
+      - id: i0
+        label: Loopback0
+        type: loopback
+      - id: i1
+        label: Ethernet0/0
+        slot: 0
+        type: physical
+      - id: i2
+        label: Ethernet0/1
+        slot: 1
+        type: physical
+      - id: i3
+        label: Ethernet0/2
+        slot: 2
+        type: physical
+      - id: i4
+        label: Ethernet0/3
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: SRV1
+    node_definition: server
+    parameters: {}
+    ram: null
+    tags: []
+    x: -560
+    y: -120
+    interfaces:
+      - id: i0
+        label: eth0
+        slot: 0
+        type: physical
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: ACA1
+    node_definition: desktop
+    parameters: {}
+    ram: null
+    tags: []
+    x: -80
+    y: 280
+    interfaces:
+      - id: i0
+        label: eth0
+        slot: 0
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname inserthostname-here
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: GES1
+    node_definition: desktop
+    parameters: {}
+    ram: null
+    tags: []
+    x: 680
+    y: 280
+    interfaces:
+      - id: i0
+        label: eth0
+        slot: 0
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname inserthostname-here
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: EST1
+    node_definition: desktop
+    parameters: {}
+    ram: null
+    tags: []
+    x: 480
+    y: 280
+    interfaces:
+      - id: i0
+        label: eth0
+        slot: 0
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname inserthostname-here
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: FIN1
+    node_definition: desktop
+    parameters: {}
+    ram: null
+    tags: []
+    x: -280
+    y: 280
+    interfaces:
+      - id: i0
+        label: eth0
+        slot: 0
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname inserthostname-here
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n7
+    image_definition: null
+    label: DOC1
+    node_definition: desktop
+    parameters: {}
+    ram: null
+    tags: []
+    x: 280
+    y: 280
+    interfaces:
+      - id: i0
+        label: eth0
+        slot: 0
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3354 bytes
+          !
+          ! Last configuration change at 06:45:35 UTC Tue Nov 24 2026
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          vtp domain SWM1
+          vtp password Cisco1
+          vtp mode client
+          vtp version 2
+
+          interface g0/0
+          switchport trunk encapsulation dot1q
+          switchport mode trunk
+          switchport trunk native vlan 199
+          switchport trunk allowed vlan 130,31,199
+          no shutdown
+          exit
+          no logging console
+          !
+          username admin privilege 15 secret 5 $1$g3Ie$HlSJYWtcylOu9Ucyvfymy0
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name lab.local
+          ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree extend system-id
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport trunk allowed vlan 31,130,199
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 199
+           switchport mode trunk
+           negotiation auto
+          !
+          interface GigabitEthernet0/1
+           switchport access vlan 130
+           switchport mode access
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 199
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 199
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface Vlan31
+           ip address 172.18.33.2 255.255.255.0
+           ipv6 address 2001:25:18:2::2/64
+          !
+          ip default-gateway 172.18.33.1
+          ip forward-protocol nd
+          !
+          ip http server
+          ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner motd ^CSOLO PERSONAL AUTORIZADO^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login local
+           transport input ssh
+          line vty 5 15
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n8
+    image_definition: null
+    label: SW
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -360
+    y: -120
+    interfaces:
+      - id: i0
+        label: Loopback0
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3349 bytes
+          !
+          ! Last configuration change at 06:27:35 UTC Tue Nov 24 2026
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW3
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          vtp mode transparent
+          vtp version 2
+          vtp domain SWM1
+          vtp password Cisco1
+          vtp mode client
+
+          interface g0/0
+          switchport trunk encapsulation dot1q
+          switchport mode trunk
+          switchport trunk native vlan 199
+          switchport trunk allowed vlan 110,120,31,199
+          no shutdown
+          exit
+          no logging console
+          !
+          username admin privilege 15 secret 5 $1$bf0P$eOCy/FLXn0Rg2uZj96t/8.
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name lab.local
+          ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree extend system-id
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport trunk allowed vlan 31,110,120,199
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 199
+           switchport mode trunk
+           negotiation auto
+          !
+          interface GigabitEthernet0/1
+           switchport access vlan 110
+           switchport mode access
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 120
+           switchport mode access
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 199
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface Vlan31
+           ip address 172.18.33.3 255.255.255.0
+           ipv6 address 2001:25:18:2::3/64
+          !
+          ip default-gateway 172.18.33.1
+          ip forward-protocol nd
+          !
+          ip http server
+          ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner motd ^CSOLO PERSONAL AUTORIZADO^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login local
+           transport input ssh
+          line vty 5 15
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n9
+    image_definition: null
+    label: SW3
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -160
+    y: 80
+    interfaces:
+      - id: i0
+        label: Loopback0
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3342 bytes
+          !
+          ! Last configuration change at 06:27:35 UTC Tue Nov 24 2026
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW5
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          tp mode transparent
+          vtp version 2
+          vtp domain R1-Core
+          vtp password Cisco2
+          vtp mode client
+
+          interface range g0/1-2
+          switchport trunk encapsulation dot1q
+          switchport mode trunk
+          no shutdown
+          exit
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          no ip domain-lookup
+          ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree extend system-id
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Port-channel1
+           switchport trunk allowed vlan 10,20,30,40,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+          !
+          interface GigabitEthernet0/0
+           switchport access vlan 10
+           switchport mode access
+           negotiation auto
+          !
+          interface GigabitEthernet0/1
+           switchport trunk allowed vlan 10,20,30,40,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           negotiation auto
+           channel-group 1 mode active
+          !
+          interface GigabitEthernet0/2
+           switchport trunk allowed vlan 10,20,30,40,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           negotiation auto
+           channel-group 1 mode active
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 30
+           switchport mode access
+           negotiation auto
+          !
+          ip forward-protocol nd
+          !
+          ip http server
+          ip http secure-server
+          !
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner motd ^CSOLO PERSONAL AUTORIZADO^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n10
+    image_definition: null
+    label: SW5
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: 560
+    y: 80
+    interfaces:
+      - id: i0
+        label: Loopback0
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3878 bytes
+          !
+          ! Last configuration change at 06:45:35 UTC Tue Nov 24 2026
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW4
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          vtp domain R1-Core
+          vtp password Cisco2
+          vtp mode server
+          vtp version 2
+          vlan 30
+          name Gestion1
+          vlan 20
+          name Docentes
+          vlan 10
+          name Estudiantes
+          vlan 40
+          name Voz
+          vlan 99
+          name Blackhull-1
+          exit
+
+          interface range g0/0-3
+          switchport mode access
+          switchport access vlan 99
+          shutdown
+          exit
+
+          interface g0/0
+          switchport trunk encapsulation dot1q
+          switchport mode trunk
+          switchport trunk native vlan 99
+          switchport trunk allowed vlan 10,20,30,40,99
+          no shutdown
+
+          interface range g0/1-2
+          switchport trunk encapsulation dot1q
+          switchpor
+          no logging console
+          !
+          username admin privilege 15 secret 5 $1$ozsq$5TPCj3kIHwNa2K1NRzipu0
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name lab.local
+          ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree extend system-id
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Port-channel1
+           switchport access vlan 99
+           switchport trunk allowed vlan 10,20,30,40,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+          !
+          interface GigabitEthernet0/0
+           switchport access vlan 99
+           switchport trunk allowed vlan 10,20,30,40,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           negotiation auto
+          !
+          interface GigabitEthernet0/1
+           switchport access vlan 99
+           switchport trunk allowed vlan 10,20,30,40,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           negotiation auto
+           channel-group 1 mode active
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 99
+           switchport trunk allowed vlan 10,20,30,40,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           negotiation auto
+           channel-group 1 mode active
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 20
+           switchport mode access
+           negotiation auto
+          !
+          interface Vlan30
+           ip address 172.18.32.3 255.255.255.0
+           ipv6 address 2001:25:18:1::2/64
+           ipv6 address 2001:25:18:1::3/64
+          !
+          ip default-gateway 172.18.32.1
+          ip forward-protocol nd
+          !
+          ip http server
+          ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner motd ^CSOLO PERSONAL AUTORIZADO^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login local
+           transport input ssh
+          line vty 5 15
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n11
+    image_definition: null
+    label: SW4
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: 280
+    y: 80
+    interfaces:
+      - id: i0
+        label: Loopback0
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        slot: 3
+        type: physical
+links:
+  - id: l0
+    n1: n2
+    n2: n8
+    i1: i0
+    i2: i2
+    conditioning: {}
+    label: SRV1-eth0<->SW-GigabitEthernet0/1
+  - id: l1
+    n1: n8
+    n2: n0
+    i1: i1
+    i2: i3
+    conditioning: {}
+    label: SW-GigabitEthernet0/0<->SWM1-GigabitEthernet0/2
+  - id: l2
+    n1: n0
+    n2: n9
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: SWM1-GigabitEthernet0/0<->SW3-GigabitEthernet0/0
+  - id: l3
+    n1: n9
+    n2: n6
+    i1: i2
+    i2: i0
+    conditioning: {}
+    label: SW3-GigabitEthernet0/1<->desktop-0_2-eth0
+  - id: l4
+    n1: n9
+    n2: n3
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: SW3-GigabitEthernet0/2<->desktop-0-eth0
+  - id: l5
+    n1: n0
+    n2: n1
+    i1: i2
+    i2: i1
+    conditioning: {}
+    label: SWM1-GigabitEthernet0/1<->R1-Ethernet0/0
+  - id: l6
+    n1: n1
+    n2: n11
+    i1: i2
+    i2: i1
+    conditioning: {}
+    label: R1-Ethernet0/1<->SW4-GigabitEthernet0/0
+  - id: l7
+    n1: n11
+    n2: n10
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: SW4-GigabitEthernet0/1<->SW5-GigabitEthernet0/1
+  - id: l8
+    n1: n11
+    n2: n10
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: SW4-GigabitEthernet0/2<->SW5-GigabitEthernet0/2
+  - id: l9
+    n1: n11
+    n2: n7
+    i1: i4
+    i2: i0
+    conditioning: {}
+    label: SW4-GigabitEthernet0/3<->desktop-0_3-eth0
+  - id: l10
+    n1: n10
+    n2: n5
+    i1: i1
+    i2: i0
+    conditioning: {}
+    label: SW5-GigabitEthernet0/0<->desktop-0_1-eth0
+  - id: l11
+    n1: n10
+    n2: n4
+    i1: i4
+    i2: i0
+    conditioning: {}
+    label: SW5-GigabitEthernet0/3<->desktop-0_0-eth0
+lab:
+  description: ''
+  notes: ''
+  title: El producto 1
+  version: 0.2.2
